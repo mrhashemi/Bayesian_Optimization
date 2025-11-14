@@ -21,7 +21,7 @@ Key Mathematical Components:
 • Expected Improvement: EI(x) = (μ - f_best - ξ)Φ(Z) + σφ(Z)
 
 Dependencies: numpy, scipy
-Author: Bayesian Optimization Tutorial
+Based on https://arxiv.org/abs/1807.02811
 Date: November 2025
 """
 
